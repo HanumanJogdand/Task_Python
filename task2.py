@@ -1,3 +1,6 @@
+#CALCULATOR
+
+
 def calculator():
     print("Simple Calculator")
     print("Select operation:")
